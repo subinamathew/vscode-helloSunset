@@ -1,0 +1,21 @@
+{
+  "name": "hello-sunset",
+  "displayName": "hello sunset",
+  "description": "",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.36.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hello Sunset 🌴",
+        "uiTheme": "vs",
+        "path": "./themes/Hello Sunset 🌴-color-theme.json"
+      }
+    ]
+  }
+}
