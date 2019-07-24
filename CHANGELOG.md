@@ -1,9 +1,7 @@
-# Change Log
+# Hello Sunset Changelog
 
-All notable changes to the "hello-sunset" extension will be documented in this file.
+<a name="0.0.1"></a>
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 0.0.1 (2019-07-24)
 
-## [Unreleased]
-
-- Initial release
+- Created Hello Sunset theme
