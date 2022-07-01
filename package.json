@@ -2,14 +2,14 @@
   "name": "hello-sunset",
   "displayName": "hello sunset",
   "description": "A simple theme with sunset colors",
-  "icon": "images/hello-sunset-icon.png",
+  "icon": "images/icon.png",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/necraidan/vscode-helloSunset.git"
+    "url": "https://github.com/subinamathew/vscode-helloSunset.git"
   },
   "galleryBanner": {
-    "color": "#a80054",
+    "color": "#121a38",
     "theme": "light"
   },
   "publisher": "necraidan",
@@ -25,7 +25,7 @@
       {
         "label": "Hello Sunset 🌴",
         "uiTheme": "vs",
-        "path": "./themes/Hello Sunset 🌴-color-theme.json"
+        "path": "./themes/theme.json"
       }
     ]
   }
