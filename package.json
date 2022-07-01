@@ -1,7 +1,7 @@
 {
-  "name": "hello-sunset",
-  "displayName": "hello sunset",
-  "description": "A simple theme with sunset colors",
+  "name": "hello-moon",
+  "displayName": "hello moon",
+  "description": "A simple theme with Blue colours",
   "icon": "images/icon.png",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
@@ -13,7 +13,7 @@
     "theme": "light"
   },
   "publisher": "necraidan",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.36.0"
   },
@@ -23,10 +23,13 @@
   "contributes": {
     "themes": [
       {
-        "label": "Hello Sunset 🌴",
+        "label": "Hello Moon",
         "uiTheme": "vs",
         "path": "./themes/theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "vsce": "^2.9.2"
   }
 }
